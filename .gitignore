@@ -39,6 +39,5 @@ app.db
 microblog.log*
 
 # dir
-migrations/
 venv/
 .idea/
