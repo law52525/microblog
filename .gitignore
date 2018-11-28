@@ -33,9 +33,12 @@ nosetests.xml
 # Mr Developer
 .mr.developer.cfg
 .project
-.idea
 .pydevproject
 
-venv
 app.db
 microblog.log*
+
+# dir
+migrations/
+venv/
+.idea/
